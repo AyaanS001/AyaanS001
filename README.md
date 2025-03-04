@@ -11,7 +11,7 @@ I am a driven and detail-oriented **Data Analyst**, newly completing a Bachelor 
 - R (under construction)
 
 ### **🔹 Let's Connect!**
-- 💼 [LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/ayaan-siddiqui-577510192/))
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/ayaan-siddiqui-577510192/)
 - 📧 Email: ayaansiddiqui110@gmail.com
 - 🌐 Portfolio: All Projects Listed Above!!
 
