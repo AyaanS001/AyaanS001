@@ -7,8 +7,7 @@ I am a driven and detail-oriented **Data Analyst**, newly completing a Bachelor 
 - 🐍 **[Python Projects](https://github.com/AyaanS001/Python):** Sales analysis, customer segmentation, and KPI dashboards.
 - 📊 **[Tableau Dashboards](https://github.com/AyaanS001/Tableau):** Visual insights and data storytelling.
 - 📑 **[Excel Reports](https://github.com/AyaanS001/Excel):** KPI dashboards and financial analysis.
-- PowerBi (under construction)
-- R (under construction)
+- 🚀 **[R Projects](https://github.com/AyaanS001/R(under construction):** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA) & Visualization, Predictive Modeling
 
 ### **🔹 Let's Connect!**
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/ayaan-siddiqui-577510192/)
